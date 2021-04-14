@@ -1,1 +1,2144 @@
-[{"name":"&AMC","logo":"http://distv.net/icons/amc.png","url":"http://rec2.distv.net:80/live/daniele/12345/223.m3u8","category":"Movies","languages":[{"code":"eng","name":"English"}],"countries":[{"code":"in","name":"India"}],"tvg":{"id":"Flix.in","name":"&Flix","url":null}},{"name":"&Globo","logo":null,"url":"http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=HlG2rd7uhH02&app_ver=10101&auth_id=41591808_com.global.brasiltvweb&client_ip=177.67.221.50&user_id=41591808&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=ca44fd05&expired=1618388363&token=A403D835D7933A48FE9BF8BABA752D4A&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p","category":"Movies","languages":[{"code":"cn","name":"China"}],"tvg":{"id":"LongKouShengHuoPinDao.cn","name":"龙口生活频道","url":"http://rec2.distv.net:80/live/daniele/12345/223.m3u8"}},{"name":"龙岩公共","logo":null,"url":"http://rec2.distv.net:80/live/daniele/12345/223.m3u8","category":null,"languages":[{"code":"zho","name":"Chinese"}],"countries":[{"code":"cn","name":"China"}],"tvg":{"id":"LongYanGongGong.cn","name":"龙岩公共","url":"http://rec2.distv.net:80/live/daniele/12345/223.m3u8"}},{"name":"龙岩综合","logo":null,"url":"http://stream.lytv.net.cn/2/sd/live.m3u8","category":null,"languages":[{"code":"zho","name":"Chinese"}],"countries":[{"code":"cn","name":"China"}],"tvg":{"id":"LongYanZongHe.cn","name":"龙岩综合","url":"http://epg.51zmt.top:8000/e.xml.gz"}},{"name":"가요TV","logo":"http://gayotv.co.kr/image/logo.jpg","url":"http://gayotv.net:1935/live/gayotv/playlist.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}},{"name":"국악방송","logo":"https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg","url":"http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}},{"name":"대구 MBC(MBC Daegu)","logo":"https://dg.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/12/0df66e127a9d1c68d0d56dd7567a5b52943a71122c8fc5aecf792ff11fba3d93bb1cd98f1d1c9e2fd83a294d26e2d5f270b705711cc20b5bdaf39ed2188c5075.png","url":"https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}},{"name":"대전MBC(MBC Daejeon)","logo":"https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2018/12/6e1a8d912bd32dca479bbf74667f7caf0716dd4e358e61136cecb8ca29b5b99a46b47b1d42b4a487d582c6ad6132929ff20a4cb41b344da26694ca115f5ee90a.png","url":"https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}},{"name":"여수MBC(MBC Yeosu)","logo":"https://ys.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/01/bbbcec12d40f91ed9d4609144a648583937ee510098fb91776a99b0c1f00e818ab090f049ebdf24b0d1b21efb7f103dea45fb0f88d2571bf1756759dfdc93fd9.png","url":"https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}},{"name":"제주 MBC(MBC Jeju)","logo":"https://jeju.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/06/2a42c0e8f353c0d091bd145d7384670af46a6cdf647b0d0be45f76a8faccf7ad0b144cbb6fe11b0ff81bd830478e8e5e8dc43ec1ce76bfead41eac377fcfbdc0.png","url":"http://rec2.distv.net:80/live/daniele/12345/223.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}},{"name":"춘천MBC(MBC Chuncheon)","logo":"https://data1.chmbc.co.kr/2018/12/d0fba52ecd26cdc49a893b9af6d468561f88e70c58accae0c6e1718bd112efc69511ffd56f9c167d6e1b215c065f844f250b1fa6df470afb30abf5cdd0153016.png","url":"https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}},{"name":"leo","logo":"http://www.etv.go.kr/images/newimg/logo.png","url":"http://rec2.distv.net:80/live/daniele/12345/223.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}}]
+[
+    {
+        "name": "GLOBO RJ",
+        "logo": "",
+        "url": "http:\/\/live.video.globo.com\/h\/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg\/k\/app\/a\/A\/u\/anyone\/d\/s\/hls-globo-rj\/hls-globo-rj_2359\/playlist.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "58",
+        "label": "58 {1}"
+    },
+    {
+        "name": "RECORD SP TV Record (SP) SD\u00b2",
+        "logo": "",
+        "url": "http:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/index_360_av-p.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "49",
+        "label": "49 {1}"
+    },
+    {
+        "name": "Record SP",
+        "logo": "",
+        "url": "http:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/index_360_av-p.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "20",
+        "label": "20 {1}"
+    },
+    {
+        "name": "BBB 21",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/bbb24hras\/bbb24hras_1000\/index.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "14",
+        "label": "14 {1}"
+    },
+    {
+        "name": "DISNEY JR (Cortesia) Disney Junior SD",
+        "logo": "http:\/\/app.megacubo.net\/logos\/DISNEY%20JR%20(Cortesia).png",
+        "url": "http:\/\/playplusdisney-lh.akamaihd.net\/i\/pp_dsneyjr@376337\/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "13",
+        "label": "13 {1}"
+    },
+    {
+        "name": "Globo SP",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/vintequatrohrs1\/vintequatrohrs1_1000\/index.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "11",
+        "label": "11 {1}"
+    },
+    {
+        "name": "Rede Globo",
+        "logo": "",
+        "url": "http:\/\/live.video.globo.com\/h\/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg\/k\/app\/a\/A\/u\/anyone\/d\/s\/hls-globo-rj\/playlist.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "9",
+        "label": "9 {1}"
+    },
+    {
+        "name": "CNN Brasil",
+        "logo": "",
+        "url": "http:\/\/cdn-1.nxplay.com.br\/CNN_Brazil_HD_NX_01\/tracks-v2a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "8",
+        "label": "8 {1}"
+    },
+    {
+        "name": "BBB Acompanhe a Casa",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/254",
+        "source": "",
+        "type": "stream",
+        "count": "8",
+        "label": "8 {1}"
+    },
+    {
+        "name": "RECORD RJ",
+        "logo": "",
+        "url": "https:\/\/playplusrjo-lh.akamaihd.net\/i\/pp_rj@377859\/master.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "7",
+        "label": "7 {1}"
+    },
+    {
+        "name": "Rede Globo SP HD",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/vintequatrohrs1\/vintequatrohrs1_2000\/index.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "7",
+        "label": "7 {1}"
+    },
+    {
+        "name": "Globo SP",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/vintequatrohrs1\/vintequatrohrs1_1000\/index.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "6",
+        "label": "6 {1}"
+    },
+    {
+        "name": "Globo (RJ) SD\u00b9",
+        "logo": "",
+        "url": "https:\/\/live.video.globo.com\/h\/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg\/k\/app\/a\/A\/u\/anyone\/d\/s\/hls-globo-rj\/hls-globo-rj_655\/playlist.m3u8",
+        "source": "https:\/\/pastebin.com\/raw\/juXx5Ayq",
+        "type": "stream",
+        "count": "6",
+        "label": "6 {1}"
+    },
+    {
+        "name": "Nickelodeon",
+        "logo": "",
+        "url": "http:\/\/cdn-1.nxplay.com.br\/NICK_BR_HD_NX\/tracks-v2a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "6",
+        "label": "6 {1}"
+    },
+    {
+        "name": "RECORD SP HD",
+        "logo": "",
+        "url": "http:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/index_720_av-p.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "6",
+        "label": "6 {1}"
+    },
+    {
+        "name": "BAND (SP)",
+        "logo": "http:\/\/i.imgur.com\/6xouXln.png",
+        "url": "http:\/\/evpp.mm.uol.com.br:1935\/geob_band\/app\/playlist.m3u8",
+        "source": "https:\/\/pastebin.com\/raw\/ekZcsfRh",
+        "type": "stream",
+        "count": "6",
+        "label": "6 {1}"
+    },
+    {
+        "name": "Globo News HD",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/232",
+        "source": "",
+        "type": "stream",
+        "count": "5",
+        "label": "5 {1}"
+    },
+    {
+        "name": "SBT SP Interior",
+        "logo": "",
+        "url": "http:\/\/wbeo5ubp2y.singularcdn.net.br\/TV_SOROCABA_HD_PFZ\/tracks-v2a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "5",
+        "label": "5 {1}"
+    },
+    {
+        "name": "RECORD BA - RecordTV Bahia",
+        "logo": "",
+        "url": "https:\/\/playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "5",
+        "label": "5 {1}"
+    },
+    {
+        "name": "AXN",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/116",
+        "source": "",
+        "type": "stream",
+        "count": "5",
+        "label": "5 {1}"
+    },
+    {
+        "name": "Record SP TV (SP) 360p",
+        "logo": "",
+        "url": "http:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "GLOBO (Cortesia)",
+        "logo": "",
+        "url": "mega:\/\/Rede Globo?terms=globo%2C-radio%2C-fm%2C-am%2C-news",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "BAND HD",
+        "logo": "",
+        "url": "https:\/\/evpp.mm.uol.com.br\/geob_band\/band\/chunklist_w1723365796.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "Band SP",
+        "logo": "",
+        "url": "http:\/\/evpp.mm.uol.com.br:1935\/geob_band\/app\/playlist.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "Globo SP",
+        "logo": "",
+        "url": "mega:\/\/Rede Globo?terms=re",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "Record SP Interior",
+        "logo": "",
+        "url": "http:\/\/cdn-1.nxplay.com.br\/RECORD_PAULISTA_PFZ_NXPLAY_01\/tracks-v2a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "RecordTV Bahia Record BA",
+        "logo": "",
+        "url": "https:\/\/playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "Record RJ",
+        "logo": "",
+        "url": "https:\/\/playplusrjo-lh.akamaihd.net\/i\/pp_rj@377859\/master.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "4",
+        "label": "4 {1}"
+    },
+    {
+        "name": "GLOOB",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/154",
+        "source": "https:\/\/is.gd\/SrMH0w",
+        "type": "stream",
+        "count": "3",
+        "label": "3 {1}"
+    },
+    {
+        "name": "TLC",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/200",
+        "source": "",
+        "type": "stream",
+        "count": "3",
+        "label": "3 {1}"
+    },
+    {
+        "name": "Record TV (SP) SD\u00b2",
+        "logo": "",
+        "url": "mega:\/\/Rede Record?terms=re",
+        "source": "",
+        "type": "stream",
+        "count": "3",
+        "label": "3 {1}"
+    },
+    {
+        "name": "Band News HD",
+        "logo": "",
+        "url": "https:\/\/origin-02.nxplay.com.br\/BAND_NEWS_NXPLAY\/tracks-v1a1a2\/mono.m3u8",
+        "source": "https:\/\/pastebin.com\/raw\/juXx5Ayq",
+        "type": "stream",
+        "count": "3",
+        "label": "3 {1}"
+    },
+    {
+        "name": "SBT - Imperatr\u00edz (MA) SD\u00b9",
+        "logo": "",
+        "url": "http:\/\/difusorama.zoeweb.tv:1935\/z438-live\/stream\/chunklist_w264526402.m3u8?ChannelsON",
+        "source": "",
+        "type": "stream",
+        "count": "3",
+        "label": "3 {1}"
+    },
+    {
+        "name": "Globo RJ",
+        "logo": "",
+        "url": "http:\/\/live.video.globo.com\/h\/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg\/k\/app\/a\/A\/u\/anyone\/d\/s\/hls-globo-rj\/hls-globo-rj_1049\/playlist.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "3",
+        "label": "3 {1}"
+    },
+    {
+        "name": "BR: TELECINE PIPOCA",
+        "logo": "",
+        "url": "mega:\/\/play|Telecine?mediaType=undefined",
+        "source": "https:\/\/cutt.ly\/wlRJadP",
+        "type": "stream",
+        "count": 3,
+        "label": "3 {1}"
+    },
+    {
+        "name": "GLOBO TV VANGUARDA S JOSDOS CAMPOS SD\u00b2",
+        "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/pt\/5\/5d\/Redeglobo.png",
+        "url": "http:\/\/srvtv.online:2082\/Altair567\/356738473\/4524",
+        "source": "http:\/\/f.srvtv.online\/PqLB",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Disney JR",
+        "logo": "",
+        "url": "http:\/\/e.advd.cyou:80\/gustavo\/gustavo\/185101",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "GLOBO SP HD",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/15",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Globo News SD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/32867",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "TELECINE PREMIUM HD LEGENDADO $",
+        "logo": "",
+        "url": "http:\/\/dns.cometapro.online:2082\/2394847851\/7036620869\/6794",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "GLOBO NEWS",
+        "logo": "http:\/\/distv.net\/icons\/globonews.png",
+        "url": "mega:\/\/play|Globo%20News?mediaType=live",
+        "source": "https:\/\/is.gd\/SrMH0w",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "TNT SERIES",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/202",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Record TV RECORD (SP) SD\u00b9 RECORDTV SP",
+        "logo": "https:\/\/listaiptv.gratis\/logos\/imagens\/recordtv.png",
+        "url": "https:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/master.m3u8",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Band News",
+        "logo": "",
+        "url": "http:\/\/nxplay-srv1.nxplay.com.br\/BAND_NEWS\/tracks-v2a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "ESPN BRASIL (Cortesia)",
+        "logo": "",
+        "url": "http:\/\/playplusespn-lh.akamaihd.net\/i\/pp_espnbra@374460\/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Disney XD",
+        "logo": "",
+        "url": "http:\/\/playplusdisney-lh.akamaihd.net\/i\/pp_dsneyxd@376337\/index_360_av-b.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "CINEMAX",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/125",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Porto Canal (360p)",
+        "logo": "",
+        "url": "https:\/\/streamer-b02.videos.sapo.pt\/live\/portocanal\/playlist.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Discovery Channel SD",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/130",
+        "source": "https:\/\/pastebin.com\/raw\/bfL7xxFv",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "AMC",
+        "logo": "",
+        "url": "http:\/\/cdn-1.nxplay.com.br\/AMC_BRASIL\/tracks-v2a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "BAND",
+        "logo": "",
+        "url": "http:\/\/evpp.mm.uol.com.br:1935\/geob_band\/app\/chunklist_w210441685.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Disney Channel",
+        "logo": "",
+        "url": "http:\/\/playplusdisney-lh.akamaihd.net\/i\/pp_dsneych@376337\/index_360_av-b.m3u8",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "RECORD SP",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/33",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Globo P. Alegre FHD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/51341",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Globo RJ HD",
+        "logo": "",
+        "url": "http:\/\/live.video.globo.com\/h\/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg\/k\/app\/a\/A\/u\/anyone\/d\/s\/hls-globo-rj\/hls-globo-rj_2359\/playlist.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "CNN BRASIL HD",
+        "logo": "",
+        "url": "mega:\/\/CNN Brasil?terms=cnn%2Cbrasil%2C-radio%2C-fm%2C-am%2C-central%2C-canal%2C-rede%2C-estudio%2C-nova%2C-tvn%2C-espn%2C-agro",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "CNN BRASIL",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/225",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "BR: DISCOVERY HOME & HEALTH",
+        "logo": "",
+        "url": "http:\/\/manutanplus.space:8080\/RubenRodriguesClt2\/AK5DYkGITD\/30030",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "GLOBO BRASILIA HD",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/3",
+        "source": "https:\/\/is.gd\/SrMH0w",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Globo SP Interior",
+        "logo": "",
+        "url": "http:\/\/cdn-1.nxplay.com.br\/TV_TEM_HD_PFZ_NX_01_090\/tracks-v1a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Record RJ",
+        "logo": "",
+        "url": "http:\/\/playplusrjo-lh.akamaihd.net\/i\/pp_rj@377859\/index_360_av-b.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "SporTV SD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/72333",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Band SP (1)",
+        "logo": "",
+        "url": "http:\/\/evpp.mm.uol.com.br:1935\/geob_band\/app\/playlist.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Band - RBA TV (PA)",
+        "logo": "",
+        "url": "https:\/\/5cf4a2c2512a2.streamlock.net\/rbatv\/rbatv\/playlist.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Globo News HD\u2082",
+        "logo": "http:\/\/i.img8.xyz\/_logos\/globonews_hd.png",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/32862",
+        "source": "http:\/\/nowiptv.net\/pke7ii5hl",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "GLOOB HD\u207a\u00b2",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10040773",
+        "source": "",
+        "type": "stream",
+        "count": "2",
+        "label": "2 {1}"
+    },
+    {
+        "name": "Band SP (1)",
+        "logo": "",
+        "url": "mega:\/\/Band?terms=band%2C-radio%2C-fm%2C-am%2C-news%2C-sports",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo Florian\u00f3polis FHD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/39801",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB Acompanhe a Casa Extra",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/256",
+        "source": "https:\/\/is.gd\/SrMH0w",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 1 2021 SD\u2081",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/82084",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "REDE BRASIL",
+        "logo": "http:\/\/www.cxtv.com.br\/img\/Tvs\/Logo\/4cc2faa53cb8b284468eaeda099eec55.png",
+        "url": "https:\/\/59f2354c05961.streamlock.net:1443\/rbtv\/_definst_\/rbtv\/chunklist_w1229479860.m3u8",
+        "source": "https:\/\/pastebin.com\/raw\/ekZcsfRh",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo Caxias do Sul HD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/39555",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo News",
+        "logo": "",
+        "url": "http:\/\/dns.queroassistir.tv:8080\/live\/eltonsousa2020\/03111982E\/4867.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "DISCOVERY KIDS",
+        "logo": "",
+        "url": "mega:\/\/Discovery Kids?terms=discovery%2Ckids%2C-radio%2C-fm%2C-am%2C-home%2C-health%2C-3%2C-abn%2C-channel%2C-civilization%2C-investigacao%2C-science%2C-theater%2C-turbo%2C-world%2C-junior",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "DISCOVERY HOME & HEALTH",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/131",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "A&E FHD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/71761",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GB INTER TV CABUGI NATAL SD",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/5780",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Band Sports",
+        "logo": "",
+        "url": "mega:\/\/Band Sports?terms=band%2Csports%2C-radio%2C-fm%2C-am%2C-news%2C-all%2C-fox",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record TV Goi\u00e1s SD\u00b2",
+        "logo": "",
+        "url": "https:\/\/playplusgoya-lh.akamaihd.net\/i\/pp_gna@377833\/index_480_av-p.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record BA",
+        "logo": "",
+        "url": "http:\/\/playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "R\u00e1dio Band FM 96.1",
+        "logo": "",
+        "url": "http:\/\/evpp.mm.uol.com.br\/band\/bandfm_sp\/chunklist_w1986330582.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BAND SPORTS",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/119",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Play Kids HD",
+        "logo": "",
+        "url": "http:\/\/playplusdlab-lh.akamaihd.net\/i\/pp_pkids@377825\/index_720_av-p.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Fox Sports 2 SD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/32934",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TELECINE TOUCH",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/199",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TELECINE ACTION",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/194",
+        "source": "https:\/\/is.gd\/SrMH0w",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Masha e o Urso - 1",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/38847",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo TV TEM Sao Jose do Rio Preto FHD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/91433",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record MG",
+        "logo": "",
+        "url": "http:\/\/playplusbh-lh.akamaihd.net\/i\/pp_bh@377862\/index_360_av-p.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 21 ACOMPANHE A CASA",
+        "logo": "https:\/\/logodownload.org\/wp-content\/uploads\/2018\/04\/bbb-logo-big-brother-brasil-logo-9.png",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10052647",
+        "source": "http:\/\/tinyurl.com\/y4s6mjfa",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo Brasilia FHD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/71973",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Band News HD",
+        "logo": "",
+        "url": "mega:\/\/Band News?terms=band%2Cnews%2C-radio%2C-fm%2C-am%2C-rede%2C-litoral%2C-ponta%2C-negra%2C-wftv%2C-9%2C-gv%2C-record%2C-sports%2C-bh%2C-globo",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record BA",
+        "logo": "",
+        "url": "http:\/\/playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/index_360_av-b.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "SBT SD",
+        "logo": "",
+        "url": "https:\/\/evpp.mm.uol.com.br\/ne10\/ne10.smil\/chunklist_w372330674_b176000_sleng.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Arquivo X S04 E07",
+        "logo": "http:\/\/srvx.io:80\/images\/88749871d171d689c6603ffcb6a7ebfd.jpg",
+        "url": "http:\/\/b5.vc:80\/series\/6754821411\/fireurl.co\/73635.mp4",
+        "source": "http:\/\/fireurl.co\/6754821411",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RECORD RS",
+        "logo": "",
+        "url": "https:\/\/playpluspoa-lh.akamaihd.net\/i\/pp_poa@377864\/master.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "O Grande Mestre 4: A Batalha Final",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/movie\/6754821411\/fireurl.co\/91271.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "AXN SD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33150",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Chocolate com Pimenta S01 E01",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/series\/6754821411\/fireurl.co\/42139.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "R\u00e1dio Gospel",
+        "logo": "",
+        "url": "https:\/\/stream.vagalume.fm\/hls\/14658544132100453351\/aac.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record TV Bras\u00edlia SD\u00b9",
+        "logo": "",
+        "url": "https:\/\/playplusbsa-lh.akamaihd.net\/i\/pp_bsa@377860\/index_480_av-b.m3u8?sd=10&rebase=on",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo Inter TV Grande Minas FHD",
+        "logo": "",
+        "url": "http:\/\/pfsv.io:80\/136515689\/2106\/374",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Channel FHD",
+        "logo": "",
+        "url": "http:\/\/pfsv.io:80\/136515689\/2106\/166",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Animal Planet",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/114",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 21 QUARTO COLORIDO",
+        "logo": "https:\/\/logodownload.org\/wp-content\/uploads\/2018\/04\/bbb-logo-big-brother-brasil-logo-9.png",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10052643",
+        "source": "http:\/\/tinyurl.com\/y4s6mjfa",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 21 CAM PRINCIPAL",
+        "logo": "https:\/\/logodownload.org\/wp-content\/uploads\/2018\/04\/bbb-logo-big-brother-brasil-logo-9.png",
+        "url": "http:\/\/diretogo.com:80\/g968167x\/1511981\/10052648",
+        "source": "http:\/\/elite22.cc\/e\/qy2go",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Imp\u00e9rio S01 E01",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/series\/6754821411\/fireurl.co\/50939.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo SP SD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/45492",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Cordel Encantado - S01 E63",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/series\/rogerrocha\/estherlorena\/61899.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "1T-E05 Voce Vai Ter o que Merece",
+        "logo": "",
+        "url": "http:\/\/kianumaka.lhmtv.gq\/play\/?list=dafbee661b6230d5&LHMTv",
+        "source": "http:\/\/bit.ly\/PJT2018",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Warner Channel FHD",
+        "logo": "",
+        "url": "mega:\/\/Warner Channel?terms=warner%20channel",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RETRO CARTOON Retr\u00f4 Cartoon SD",
+        "logo": "",
+        "url": "https:\/\/stmv1.srvif.com\/retrotv\/retrotv\/playlist-480p.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "NICK JR CLUB Nick Jr. Club",
+        "logo": "",
+        "url": "http:\/\/service-stitcher.clusters.pluto.tv\/stitch\/hls\/channel\/5f121460b73ac6000719fbaf\/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Telecine Action FHD\u2081",
+        "logo": "",
+        "url": "mega:\/\/Telecine Action?terms=telecine%2Caction%2C-radio%2C-fm%2C-am%2C-cult%2C-fun%2C-pipoca%2C-premium%2C-touch",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "How to Get Away with Murder S01 E01",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/series\/rogerrocha\/estherlorena\/7129.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BOOMERANG",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/121",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Blindspot (Ponto Cego) S05 E04",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/series\/Junioroliveira\/wqAsitr\/10050863.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TELECINE FUN",
+        "logo": "",
+        "url": "mega:\/\/Telecine Fun?terms=telecine%2Cfun%2C-radio%2C-fm%2C-am%2C-action%2C-cult%2C-pipoca%2C-premium%2C-touch",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TV CULTURA SD",
+        "logo": "https:\/\/i.imgur.com\/ptlcUjq.png",
+        "url": "http:\/\/diretogo.com:80\/g968167x\/1511981\/2741",
+        "source": "http:\/\/elite22.cc\/e\/qy2go",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "CARTOON NETWORK",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/124",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TV Gazeta (SP)",
+        "logo": "",
+        "url": "http:\/\/api.new.livestream.com:80\/accounts\/5381476\/events\/8947634\/live.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 21 HD",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/bbb24hras\/bbb24hras_2000\/index.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "AQUECIMENTO BBB 2021",
+        "logo": "http:\/\/app.megacubo.net\/logos\/AQUECIMENTO%20BBB%202021.png",
+        "url": "http:\/\/tv.minhalista.me\/live\/DxeWS030C7\/duoiptv\/77139.ts",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "DISCOVERY KIDS",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/133",
+        "source": "https:\/\/is.gd\/SrMH0w",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "NICK JR SD",
+        "logo": "",
+        "url": "http:\/\/diretogo.com:80\/g968167x\/1511981\/52",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "SBT SP HD\u207a",
+        "logo": "https:\/\/i.imgur.com\/ZH05UFI.png",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10039622",
+        "source": "http:\/\/tinyurl.com\/y4s6mjfa",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Megacubo www.youtube.com",
+        "logo": "",
+        "url": "https:\/\/www.youtube.com\/watch?v=0CALbmDLX8I",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Reinado - S01 E05",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/series\/rogerrocha\/estherlorena\/43425.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 21",
+        "logo": "",
+        "url": "mega:\/\/Bbb?terms=bbb&mediaType=all",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "VINGADORES ERA DE ULTRON",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/movie\/Junioroliveira\/wqAsitr\/7101.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Murilo Couto",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/movie\/rogerrocha\/estherlorena\/81669.mp4",
+        "source": "http:\/\/nowiptv.net\/pke7ii5hl",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "1941 - Uma Guerra Muito Louca",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/movie\/rogerrocha\/estherlorena\/23631.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "CSI: Miami S02 E09",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/series\/6754821411\/fireurl.co\/73805.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "AXN",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10039441",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "FX SD",
+        "logo": "",
+        "url": "http:\/\/pfsv.io:80\/136515689\/2106\/333",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GLOBO RPC CURITIBA SD \u00b2",
+        "logo": "https:\/\/i.imgur.com\/OiAwKd5.png",
+        "url": "http:\/\/receita.xyz:2082\/8980936948\/2283275485\/86972",
+        "source": "http:\/\/e.paineltvx.com\/kKDBifTp2",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RECORD SP",
+        "logo": "http:\/\/i.imgur.com\/5UeQAk9.png",
+        "url": "mega:\/\/play|record sp",
+        "source": "https:\/\/pastebin.com\/raw\/r5n57KrC",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "SBT HD (TV Jornal)",
+        "logo": "https:\/\/i.imgur.com\/cLIdzw6.png",
+        "url": "http:\/\/evpp.mm.uol.com.br\/ne10\/ne10.smil\/chunklist_w1846566125_b216000_sleng.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record TV Goi\u00e1s SD\u00b9 RecordTV",
+        "logo": "",
+        "url": "https:\/\/playplusgoya-lh.akamaihd.net\/i\/pp_gna@377833\/master.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GB TV GAZETA SUL SD",
+        "logo": "https:\/\/i.imgur.com\/3u7HIxi.png",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10049051",
+        "source": "http:\/\/tinyurl.com\/y4s6mjfa",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TELECINE PREMIUM",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/198",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo Bahia HD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/45501",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "SPACE SD\u1d2e\u1d3f",
+        "logo": "",
+        "url": "mega:\/\/play|Space?mediaType=live",
+        "source": "http:\/\/tinyurl.com\/y4s6mjfa",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "DISNEY JR HD (Cortesia)",
+        "logo": "",
+        "url": "http:\/\/playplusdisney-lh.akamaihd.net\/i\/pp_dsneyjr@376337\/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "http:\/\/bit.ly\/ListaBrBrasilTVBOX",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo TV Gazeta Alagoas HD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/72056",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GLOBO NEWS",
+        "logo": "",
+        "url": "mega:\/\/Globo News?terms=globo%2Cnews%2C-radio%2C-fm%2C-am%2C-rede%2C-litoral%2C-ponta%2C-negra%2C-wftv%2C-9%2C-band%2C-gv%2C-record%2C-bh",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "SBT MA - SBT - TV Difusora S\u00e3o Lu\u00eds (MA) SD - SB",
+        "logo": "https:\/\/listaiptv.gratis\/logos\/imagens\/sbt.png",
+        "url": "mega:\/\/play|SBT?mediaType=live",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record SP",
+        "logo": "https:\/\/i.imgur.com\/jgAk73a.png",
+        "url": "https:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/index_360_av-b.m3u8?sd=10&rebase=on",
+        "source": "http:\/\/mgn.tv.br\/michelle90",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RECORD PA",
+        "logo": "",
+        "url": "https:\/\/playpluspa-lh.akamaihd.net\/i\/pp_pa@377468\/master.m3u8",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "ESPN BRASIL",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/144",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "A&E SD",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/299",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Channel 4K FHDR",
+        "logo": "",
+        "url": "mega:\/\/Discovery Channel?terms=discovery%2Cchannel%2C-radio%2C-fm%2C-am%2C-home%2C-health%2C-tudo%2C-aqui%2C-civilization%2C-investigacao%2C-science%2C-theater%2C-turbo%2C-world%2C-paramount%2C-universal%2C-warner%2C-junior%2C-kids%2C-disney",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Malha\u00e7\u00e3o - Sonhos - S01 E82",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/series\/rogerrocha\/estherlorena\/83678.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo SP HD",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/vintequatrohrs1\/vintequatrohrs1_2000\/index.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GLOBO RBS POA SD\u00b9",
+        "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/pt\/5\/5d\/Redeglobo.png",
+        "url": "http:\/\/srvtv.online:2082\/Altair567\/356738473\/7057",
+        "source": "http:\/\/f.srvtv.online\/PqLB",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record TV Bah\u00eda HD",
+        "logo": "",
+        "url": "http:\/\/playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "https:\/\/pastebin.com\/raw\/juXx5Ayq",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "ATL\u00c2NTIDA FM R\u00e1dio Atl\u00e2ntida 94.3 MHz",
+        "logo": "",
+        "url": "http:\/\/42747t.lp.azioncdn.net\/2747t\/a\/mp4:access_options\/rtmp-live\/atl_poa.sdp\/playlist.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record RJ",
+        "logo": "https:\/\/i.imgur.com\/BKNkpX0.png",
+        "url": "mega:\/\/play|Rede%20Record?mediaType=live",
+        "source": "http:\/\/bit.ly\/IMDSFULL",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RecordTV SP SD",
+        "logo": "",
+        "url": "http:\/\/pfsv.io:80\/136515689\/2106\/67",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RECORD DF",
+        "logo": "https:\/\/listaiptv.gratis\/logos\/imagens\/recordtv.png",
+        "url": "https:\/\/playplusbsa-lh.akamaihd.net\/i\/pp_bsa@377860\/master.m3u8",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record TV (RJ) HD\u00b3",
+        "logo": "",
+        "url": "https:\/\/playplusrjo-lh.akamaihd.net\/i\/pp_rj@377859\/index_720_av-p.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 1 HD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/89720",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GLOBO RPC CURITIBA HD",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/14",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Boomerang FHD",
+        "logo": "",
+        "url": "mega:\/\/Boomerang?terms=boomerang%2C-radio%2C-fm%2C-am",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Jurassic Park",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/movie\/6754821411\/fireurl.co\/20070.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record SP HD",
+        "logo": "http:\/\/i.imgur.com\/5UeQAk9.png",
+        "url": "http:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "http:\/\/bit.ly\/PJT2018",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BAND NEWS",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/118",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Kids FHD\u2081",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33041",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GLOBO FLORIANOPOLIS HD\u00b9",
+        "logo": "",
+        "url": "http:\/\/srvtv.online:2082\/Altair567\/356738473\/7047",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Anos 80",
+        "logo": "",
+        "url": "https:\/\/stream.vagalume.fm\/hls\/1507663468882713\/aac.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RECORD BAHIA",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/23",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Vingadores: Guerra Infinita (2018)",
+        "logo": "",
+        "url": "http:\/\/srvtv.online:2082\/movie\/Altair567\/356738473\/8713.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "SBT - TV Jornal (PE)",
+        "logo": "",
+        "url": "mega:\/\/SBT?terms=sbt%2C-radio%2C-fm%2C-am",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record SP HD",
+        "logo": "https:\/\/i.imgur.com\/BKNkpX0.png",
+        "url": "http:\/\/playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/index_720_av-b.m3u8?IMDSFULL",
+        "source": "http:\/\/bit.ly\/IMDSFULL",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Chor\u00e3o - Marginal Alado",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/movie\/rogerrocha\/estherlorena\/89944.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Elite - S02 E08",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/series\/rogerrocha\/estherlorena\/49361.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 21",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/bbb24hras\/bbb24hras_1000\/index.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Band News HD",
+        "logo": "",
+        "url": "http:\/\/nxplay-srv1.nxplay.com.br\/BAND_NEWS\/tracks-v1a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Band SP Interior",
+        "logo": "",
+        "url": "http:\/\/cdn-1.nxplay.com.br\/BAND_HD_PFZ_NX\/tracks-v1a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "A Culpa \u00e9 das Estrelas (2014)",
+        "logo": "",
+        "url": "http:\/\/pfsv.io:80\/movie\/136515689\/2106\/2089.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record RJ",
+        "logo": "",
+        "url": "http:\/\/playplusrjo-lh.akamaihd.net\/i\/pp_rj@377859\/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record DF",
+        "logo": "",
+        "url": "http:\/\/playplusbsa-lh.akamaihd.net\/i\/pp_bsa@377860\/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Band SP",
+        "logo": "",
+        "url": "https:\/\/evpp.mm.uol.com.br\/geob_band\/app\/chunklist.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "HISTORY 2 SD\u1d2e\u1d3f",
+        "logo": "",
+        "url": "http:\/\/diretogo.com:80\/g968167x\/1511981\/10047298",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GNT",
+        "logo": "",
+        "url": "mega:\/\/GNT?terms=gnt%2C-radio%2C-fm%2C-am",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TVI Reality",
+        "logo": "",
+        "url": "https:\/\/video-auth2.iol.pt\/live_tvi_direct\/live_tvi_direct\/edge_servers\/tvireality-480p\/chunks.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Channel SD",
+        "logo": "http:\/\/a5.vc\/Oj9",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/71866",
+        "source": "http:\/\/fireurl.co\/6754821411",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record GO",
+        "logo": "",
+        "url": "http:\/\/playplusgoya-lh.akamaihd.net\/i\/pp_gna@377833\/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "RECORDTV SP FHD H265",
+        "logo": "",
+        "url": "http:\/\/diretogo.com:80\/g968167x\/1511981\/17023",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Home Health FHD\u2081",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33048",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record TV (SP) SD\u00b2",
+        "logo": "",
+        "url": "mega:\/\/Rede Record?terms=record%2C-radio%2C-fm%2C-am%2C-angola%2C-news",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "ESPN",
+        "logo": "http:\/\/distv.net\/icons\/espn.png",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/142",
+        "source": "https:\/\/is.gd\/SrMH0w",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record TV (SP) SD\u00b2",
+        "logo": "",
+        "url": "mega:\/\/Record?terms=record%2C-radio%2C-fm%2C-am%2C-angola%2C-news",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "DISNEY JR",
+        "logo": "",
+        "url": "http:\/\/rec2.distv.net:80\/daniele\/12345\/139",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "O Exterminador Do Futuro 1",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/movie\/6754821411\/fireurl.co\/20144.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BAND",
+        "logo": "https:\/\/listaiptv.gratis\/logos\/imagens\/band.png",
+        "url": "http:\/\/evpp.mm.uol.com.br:1935\/geob_band\/app\/chunklist_w1727390252.m3u8",
+        "source": "http:\/\/bit.ly\/RedCanais",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Youtube",
+        "logo": "",
+        "url": "http:\/\/youtube.com\/tv#nofit",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GB RPC CURITIBA FHD",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/9521",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GB RPC TV PONTA GROSSA SD",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10049039",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Viva SD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/72430",
+        "source": "http:\/\/fireurl.co\/6754821411",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Kids HD\u2081",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33035",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "SHAMAN KING",
+        "logo": "",
+        "url": "http:\/\/diretogo.com:80\/g968167x\/1511981\/534",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Disney Channel SD",
+        "logo": "",
+        "url": "http:\/\/playplusdisney-lh.akamaihd.net\/i\/pp_dsneych@376337\/index_240_av-p.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TVCI Paranagu\u00e1",
+        "logo": "",
+        "url": "http:\/\/flash8.crossdigital.com.br\/2306\/2306\/playlist.m3u8?IMDSFULL",
+        "source": "http:\/\/bit.ly\/IMDSFULL",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record BA HD",
+        "logo": "",
+        "url": "http:\/\/playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/index_720_av-b.m3u8?IMDSFULL",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo (RJ) HD\u00b9 Rede",
+        "logo": "",
+        "url": "mega:\/\/Globo?terms=globo%2C-radio%2C-fm%2C-am%2C-news",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TOONCAST",
+        "logo": "",
+        "url": "mega:\/\/Tooncast?terms=tooncast%2C-radio%2C-fm%2C-am",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Meu Amig\u00e3oz\u00e3o - 2",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/84989",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "DISCOVERY CHANNEL FHD\u207a",
+        "logo": "",
+        "url": "http:\/\/diretogo.com:80\/g968167x\/1511981\/10039474",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "HBO 2 HD\u207a",
+        "logo": "",
+        "url": "mega:\/\/HBO 2?terms=hbo%2C2%2C-radio%2C-fm%2C-am%2C-ei%2C-maxx%2C-esporte%2C-interativo%2C-sportv%2C-family%2C-plus",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "ANIMAL PLANET SD\u00b2",
+        "logo": "http:\/\/mundop2p.in\/canais\/animalplanet.png",
+        "url": "http:\/\/meumd.com:80\/4988669740\/qSrLtAKH\/109438",
+        "source": "https:\/\/url.smarters.app\/KfX9",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Animal Planet SD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/71776",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Cinemax FHD\u2081",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33568",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo (RJ) HD\u00b2",
+        "logo": "",
+        "url": "mega:\/\/Globo Sp?terms=globo%2C-radio%2C-fm%2C-am%2C-aberta%2C-sp%2C-news",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Nick Jr.",
+        "logo": "",
+        "url": "http:\/\/cdn-1.nxplay.com.br\/NICK_JR_BR_HD_NXPLAY_01\/tracks-v2a1\/mono.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "COMEDY CENTRAL HD\u207a\u00b2",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10040742",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "1T-E01 Piloto Supergirl",
+        "logo": "",
+        "url": "http:\/\/kianumaka.lhmtv.gq\/play\/?list=59ee85a115b21f2e&LHMTv",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "cdn 556edfc7a2f1a.mp4",
+        "logo": "",
+        "url": "http:\/\/cdn.videos.pornopizza.it\/media\/videos\/5\/5\/6\/e\/d\/556edfc7a2f1a.mp4?LHMTv",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "(UK) Nickelodeon",
+        "logo": "",
+        "url": "mega:\/\/play|Nickelodeon?mediaType=live",
+        "source": "https:\/\/cutt.ly\/wlRJadP",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo RPC TV Curitiba FHD",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/72625",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record PA",
+        "logo": "",
+        "url": "http:\/\/playpluspa-lh.akamaihd.net\/i\/pp_pa@377468\/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 21 HD",
+        "logo": "",
+        "url": "https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/bbb24hras\/bbb24hras_2000\/index.m3u8?PEDROJUNIORTUTORIAIS",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Bob Esponja - O Incr\u00edvel Resgate",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/movie\/rogerrocha\/estherlorena\/78221.mp4",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "GB TV SERGIPE SD",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/9513",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Todo Mundo Odeia O Chris - S04",
+        "logo": "",
+        "url": "http:\/\/b5.vc:80\/6754821411\/fireurl.co\/48065",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Animal Planet SD\u2081",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33159",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BBB 1 2021  HD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33752",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TNT S\u00c9RIES HD\u207a\u00b2",
+        "logo": "",
+        "url": "http:\/\/akamaizedx.com:80\/Junioroliveira\/wqAsitr\/10040832",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "TELECINE MEGAPIX SPACE",
+        "logo": "",
+        "url": "http:\/\/painelvj.com.br\/tvaguaboa2\/tvaguaboa2.sdp\/chunklist.m3u8",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Home Health FHD\u2081",
+        "logo": "",
+        "url": "mega:\/\/Discovery Home & Health?terms=discovery%2Chome%2Chealth%2C-radio%2C-fm%2C-am%2C-channel%2C-civilization%2C-investigacao%2C-science%2C-theater%2C-turbo%2C-world%2C-junior%2C-kids",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Globo Alagoas HD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/49457",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Nick Jr.",
+        "logo": "",
+        "url": "mega:\/\/Nick Jr.?terms=nick%2Cjr%2C-radio%2C-fm%2C-am%2C-disney",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Record News MA TV Guar\u00e1 (MA) HD\u00b9",
+        "logo": "",
+        "url": "mega:\/\/Record News?terms=record%2Cnews%2C-radio%2C-fm%2C-am%2C-rede%2C-litoral%2C-ponta%2C-negra%2C-wftv%2C-9%2C-band%2C-gv%2C-angola%2C-bh%2C-globo",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Harry Potter e o Prisioneiro de Azkaban",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/movie\/rogerrocha\/estherlorena\/22410.mp4",
+        "source": "http:\/\/nowiptv.net\/pke7ii5hl",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Discovery Channel HD\u2082",
+        "logo": "",
+        "url": "http:\/\/n.srv1.xyz:8880\/rogerrocha\/estherlorena\/33059",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "BR: GLOBO RJ",
+        "logo": "",
+        "url": "http:\/\/manutanplus.space:8080\/RubenRodriguesClt2\/AK5DYkGITD\/30118",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "Disney Channel HD",
+        "logo": "",
+        "url": "mega:\/\/Disney Channel?terms=disney%2Cchannel%2C-radio%2C-fm%2C-am%2C-tudo%2C-aqui%2C-discovery%2C-paramount%2C-universal%2C-warner%2C-jr%2C-xd",
+        "source": "",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    },
+    {
+        "name": "A Freira (2018)",
+        "logo": "https:\/\/image.tmdb.org\/t\/p\/w600_and_h900_bestv2\/4MG9XyyzLvON5iqCp8l8eVI8QiF.jpg",
+        "url": "http:\/\/e.advd.cyou:80\/movie\/gustavo\/gustavo\/169072.mp4",
+        "source": "https:\/\/is.gd\/AndroidTVatualizadaMarco1?https:\/\/is.gd\/AndroidTVatualizadaMarco2?https:\/\/is.gd\/AndroidTVatualizadaMarco3",
+        "type": "stream",
+        "count": "1",
+        "label": "1 {0}"
+    }
+]
