@@ -1,3 +1,5 @@
+[{"name":"&Flix","logo":"https://static.epg.best/in/AndFlix.in.png","url":"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8","category":"Movies","languages":[{"code":"eng","name":"English"}],
+
 [
     {
         "name": "GLOBO RJ",
@@ -2133,4 +2135,4 @@
         "label": "1 {0}"
     }
     
-]:null}}]
+:null}},{"name":"한국선거방송","logo":"http://www.etv.go.kr/images/newimg/logo.png","url":"http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8","category":null,"languages":[],"countries":[],"tvg":{"id":null,"name":null,"url":null}}]
